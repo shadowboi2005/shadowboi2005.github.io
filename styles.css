@@ -1,0 +1,18 @@
+header{
+    display: block;
+    background-color: black;
+    background-image: url("src/star.jpg");
+    color: rgb(249, 220, 0);
+    font-size: xxx-large;
+    font-family: monospace;
+    font-weight: 500;
+}
+body{
+    background-image: url("src/724712.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#Intro{
+    font-size: xx-large;
+    color: azure;
+}
